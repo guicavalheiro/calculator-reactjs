@@ -1,0 +1,12 @@
+.screen {
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: #000000;
+    color: rgb(0, 0, 0);
+    outline: 1px solid #888;
+}
